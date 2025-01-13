@@ -7,6 +7,10 @@ We use the BraTS2020 dataset, an open-source dataset.
 Please download and unzip the 'MICCAI_BraTS2020_TrainingData' into `./dataset`.
 We also use the BraTS2018 dataset, an open-source dataset. 
 Download the data from MICCAI 2018 BraTS Challenge.
+You can download the BraTS2020 link
+https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation.
+you can download the BraTS2018 link
+https://www.med.upenn.edu/sbia/brats2018/data.html.
 Please download and unzip the 'MICCAI_BraTS2020_TrainingData' into `./dataset`.
 
 Set the data path in preprocess.py and then run python.
